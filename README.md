@@ -1,5 +1,11 @@
 # Business-Insights-360
+# Synopsis
 
+The Business Insights 360 offers a robust dashboard powered by Microsoft Power BI, tailored to provide AtliQ Hardware with comprehensive insights across their Finance, Sales, Marketing, and Supply Chain departments worldwide. This dynamic tool amalgamates data from Excel/CSV files and MySQL database, enabling a holistic view of the company's operations.
+
+Live Dashboard: [Click Here](https://www.novypro.com/project/atliq-business-insight-360)
+
+Portfolio: [Click Here](https://codebasics.io/portfolio/Yatin-Govinda-Lokhande)
 ## Live Dashboard: _[Business Insights 360](https://app.powerbi.com/Redirect?action=OpenApp&appId=bbf0caa7-dee2-482e-b029-87e1e5565eab&ctid=b5f86f36-3df0-46d1-beb7-50fa19e96f79)_
 ## Home Page :
 
